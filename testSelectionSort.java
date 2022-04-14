@@ -12,8 +12,8 @@ public SelectionSort temp1;
 	public void test() {
 		testPositive();
 		testNegative();
-		//testMixed();
-	//testDuplicates();
+		testMixed();
+	testDuplicates();
 		}
 	  public testSelectionSort() {
 	    }
