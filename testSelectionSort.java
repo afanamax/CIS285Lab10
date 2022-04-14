@@ -10,8 +10,8 @@ public class testSelectionSort {
 public SelectionSort temp1;
 	@Test
 	public void test() {
-		//testPositive();
-		//testNegative();
+		testPositive();
+		testNegative();
 		testMixed();
 	testDuplicates();
 		}
